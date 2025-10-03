@@ -26,7 +26,7 @@ export default function Calculator() {
 
   return (
     <div style={{ textAlign: "center", fontFamily: "Arial", marginTop: "40px" }}>
-      <h2>Calculator of Quiambao, Calvin Jared M. - IT3A</h2>
+      <h2>Calculator of Quiambao, Calvin Jared M. - IT3B</h2>
 
       <div
         style={{
